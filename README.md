@@ -1,4 +1,5 @@
 # AMC Mines Data Analysis And Prediction Of Accidents
+- ![Alt text](image link)
 - This is a dataset of health and safety incidents in the mining industry. Mining operations face various health and safety risks, and accurately classifying incidents is crucial for identifying potential hazards, assessing risks, and implementing preventive measures. The Objective is to build a model capable of accurately classifying incidents based on the analysis and insights generated.
 - The accidents are classified into 11 categories as follows:
   - HANDLING OF MATERIALS
